@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="dark_blue">#3023AE</color>
+    <color name="purple">#c86dd7</color>
+    <color name="semiTransparentColor">#0DFFFFFF</color>
+    <color name="warmYellow">#ffff99</color>
+    <color name="lightBlue">#80e5ff</color>
+    <color name="blue">#1ad1ff</color>
+    <color name="grey">#808080</color>
+    <color name="TransparentColor">#FFFFFFFF</color>
+
+    <color name="transparent">#ccffffff</color>
+    <color name="main_form_details">#ccffffff</color>
+    <color name="main_form_details_light">#1affffff</color>
+    <color name="main_form_details_medium">#66ffffff</color>
+</resources>
